@@ -1,0 +1,36 @@
+Arguments: 
+  C:\nodejs\node.exe C:\Software\Yarn\bin\yarn.js add babel-preset-react --save
+
+PATH: 
+  C:\Cmder\bin;C:\Cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Cmder\vendor\conemu-maximus5;C:\Cmder\vendor\conemu-maximus5\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Software\Anaconda2;C:\Software\Anaconda2\Scripts;C:\Software\Anaconda2\Library\bin;C:\Java\jdk1.8.0_91\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Software\PuTTY\;C:\Program Files\TortoiseGit\bin;C:\nodejs\;C:\Program Files\Calibre2\;C:\Go\bin;C:\Cmder;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Software\Git\cmd;C:\Software\Heroku\bin;C:\Software\Yarn\bin;C:\Users\Frank\AppData\Roaming\Composer\vendor\bin;C:\HashiCorp\Vagrant\bin;C:\wamp64\bin\apache\apache2.4.23\bin;C:\wamp64\bin\php\php7.0.10;C:\wamp64\bin\php\php5.6.25;C:\wamp64\bin\mysql\mysql5.7.14\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Frank\AppData\Roaming\npm;C:\Users\Frank\AppData\Roaming\Composer\vendor\bin;C:\Users\Frank\AppData\Local\atom\bin;C:\Software\Heroku\bin;C:\Users\Frank\AppData\Local\Yarn\.bin;C:\Software\Git\usr\bin;C:\Software\Git\usr\share\vim\vim74;C:\Cmder\
+
+Yarn version: 
+  0.18.1
+
+Node version: 
+  6.9.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "private": true,
+    "devDependencies": {
+      "gulp": "^3.8.8"
+    },
+    "dependencies": {
+      "laravel-elixir": "^4.0.0",
+      "bootstrap-sass": "^3.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EEXIST: file already exists, mkdir 'C:\wamp64\www\sample\node_modules\accord'
+      at Error (native)
